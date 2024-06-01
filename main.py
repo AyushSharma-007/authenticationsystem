@@ -9,3 +9,4 @@ config = {
 }
 
 firebase = pyrebase.initialize_app(config)
+// used to insert the database in it 
